@@ -1,6 +1,15 @@
 # plant_shop
 
-A new Flutter project.
+Screenshots: https://www.behance.net/cybdom
+
+This project took +2 hours to complete.
+I am sharing the code for free, and I'd appreciate it if you could show some love by donating at
+
+https://www.buymeacoffee.com/bi3cp0Zk5
+
+
+<img src="screenshot1.png">
+<img src="screenshot2.png">
 
 ## Getting Started
 
